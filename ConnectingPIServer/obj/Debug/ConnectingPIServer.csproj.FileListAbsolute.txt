@@ -1,0 +1,22 @@
+C:\Users\R71132\Desktop\New folder\ConnectingPIServer\bin\Debug\ConnectingPIServer.exe.config
+C:\Users\R71132\Desktop\New folder\ConnectingPIServer\bin\Debug\ConnectingPIServer.exe
+C:\Users\R71132\Desktop\New folder\ConnectingPIServer\bin\Debug\ConnectingPIServer.pdb
+C:\Users\R71132\Desktop\New folder\ConnectingPIServer\obj\Debug\ConnectingPIServer.csproj.AssemblyReference.cache
+C:\Users\R71132\Desktop\New folder\ConnectingPIServer\obj\Debug\Interop.PISDK.dll
+C:\Users\R71132\Desktop\New folder\ConnectingPIServer\obj\Debug\Interop.PISDKCommon.dll
+C:\Users\R71132\Desktop\New folder\ConnectingPIServer\obj\Debug\Interop.PITimeServer.dll
+C:\Users\R71132\Desktop\New folder\ConnectingPIServer\obj\Debug\ConnectingPIServer.csproj.ResolveComReference.cache
+C:\Users\R71132\Desktop\New folder\ConnectingPIServer\obj\Debug\ConnectingPIServer.csproj.CoreCompileInputs.cache
+C:\Users\R71132\Desktop\New folder\ConnectingPIServer\obj\Debug\ConnectingPIServer.exe
+C:\Users\R71132\Desktop\New folder\ConnectingPIServer\obj\Debug\ConnectingPIServer.pdb
+C:\Users\R71132\Desktop\WPF\ConnectingPIServer\bin\Debug\ConnectingPIServer.exe.config
+C:\Users\R71132\Desktop\WPF\ConnectingPIServer\bin\Debug\ConnectingPIServer.exe
+C:\Users\R71132\Desktop\WPF\ConnectingPIServer\bin\Debug\ConnectingPIServer.pdb
+C:\Users\R71132\Desktop\WPF\ConnectingPIServer\obj\Debug\ConnectingPIServer.csproj.AssemblyReference.cache
+C:\Users\R71132\Desktop\WPF\ConnectingPIServer\obj\Debug\Interop.PISDK.dll
+C:\Users\R71132\Desktop\WPF\ConnectingPIServer\obj\Debug\Interop.PISDKCommon.dll
+C:\Users\R71132\Desktop\WPF\ConnectingPIServer\obj\Debug\Interop.PITimeServer.dll
+C:\Users\R71132\Desktop\WPF\ConnectingPIServer\obj\Debug\ConnectingPIServer.csproj.ResolveComReference.cache
+C:\Users\R71132\Desktop\WPF\ConnectingPIServer\obj\Debug\ConnectingPIServer.csproj.CoreCompileInputs.cache
+C:\Users\R71132\Desktop\WPF\ConnectingPIServer\obj\Debug\ConnectingPIServer.exe
+C:\Users\R71132\Desktop\WPF\ConnectingPIServer\obj\Debug\ConnectingPIServer.pdb

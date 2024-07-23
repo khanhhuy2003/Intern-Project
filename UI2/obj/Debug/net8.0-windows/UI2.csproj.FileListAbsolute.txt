@@ -1,0 +1,376 @@
+C:\Users\R71132\Desktop\WPF\UI2\bin\Debug\net8.0-windows\UI2.exe
+C:\Users\R71132\Desktop\WPF\UI2\bin\Debug\net8.0-windows\UI2.deps.json
+C:\Users\R71132\Desktop\WPF\UI2\bin\Debug\net8.0-windows\UI2.runtimeconfig.json
+C:\Users\R71132\Desktop\WPF\UI2\bin\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\WPF\UI2\bin\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\WPF\UI2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\UI2.csproj.AssemblyReference.cache
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\Interop.PISDK.dll
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\UI2.csproj.ResolveComReference.cache
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.baml
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\User Controls\Order.baml
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\App.baml
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.g.cs
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\User Controls\Order.g.cs
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.cache
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.lref
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\UI2.g.resources
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\UI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfoInputs.cache
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfo.cs
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\UI2.csproj.CoreCompileInputs.cache
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\UI2.csproj.Up2Date
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\refint\UI2.dll
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\UI2.genruntimeconfig.cache
+C:\Users\R71132\Desktop\WPF\UI2\obj\Debug\net8.0-windows\ref\UI2.dll
+C:\Users\R71132\Desktop\WPF\UI2\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\R71132\Desktop\WPF\UI2\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\R71132\Desktop\Test\UI2\bin\Debug\net8.0-windows\UI2.exe
+C:\Users\R71132\Desktop\Test\UI2\bin\Debug\net8.0-windows\UI2.deps.json
+C:\Users\R71132\Desktop\Test\UI2\bin\Debug\net8.0-windows\UI2.runtimeconfig.json
+C:\Users\R71132\Desktop\Test\UI2\bin\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\Test\UI2\bin\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\Test\UI2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\R71132\Desktop\Test\UI2\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\R71132\Desktop\Test\UI2\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\UI2.csproj.AssemblyReference.cache
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\Interop.PISDK.dll
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\UI2.csproj.ResolveComReference.cache
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.baml
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\User Controls\Order.baml
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\App.baml
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.g.cs
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\User Controls\Order.g.cs
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.cache
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.lref
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\UI2.g.resources
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\UI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfoInputs.cache
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfo.cs
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\UI2.csproj.CoreCompileInputs.cache
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\UI2.csproj.Up2Date
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\refint\UI2.dll
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\UI2.genruntimeconfig.cache
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\ref\UI2.dll
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\View\BD03.g.cs
+C:\Users\R71132\Desktop\Test\UI2\obj\Debug\net8.0-windows\View\BD03.baml
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\UI2.csproj.AssemblyReference.cache
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\Interop.PISDK.dll
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\UI2.csproj.ResolveComReference.cache
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.baml
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\User Controls\Order.baml
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\App.baml
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.g.cs
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\User Controls\Order.g.cs
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\View\BD03.g.cs
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.cache
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.lref
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\View\BD03.baml
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\UI2.g.resources
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\refint\UI2.dll
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\Backup3\UI2\bin\Debug\net8.0-windows\UI2.exe
+C:\Users\R71132\Desktop\Backup3\UI2\bin\Debug\net8.0-windows\UI2.deps.json
+C:\Users\R71132\Desktop\Backup3\UI2\bin\Debug\net8.0-windows\UI2.runtimeconfig.json
+C:\Users\R71132\Desktop\Backup3\UI2\bin\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\Backup3\UI2\bin\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\Backup3\UI2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\R71132\Desktop\Backup3\UI2\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\R71132\Desktop\Backup3\UI2\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\UI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfoInputs.cache
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfo.cs
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\UI2.csproj.CoreCompileInputs.cache
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\UI2.csproj.Up2Date
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\UI2.genruntimeconfig.cache
+C:\Users\R71132\Desktop\Backup3\UI2\obj\Debug\net8.0-windows\ref\UI2.dll
+C:\Users\R71132\Desktop\Backup4\UI2\bin\Debug\net8.0-windows\UI2.exe
+C:\Users\R71132\Desktop\Backup4\UI2\bin\Debug\net8.0-windows\UI2.deps.json
+C:\Users\R71132\Desktop\Backup4\UI2\bin\Debug\net8.0-windows\UI2.runtimeconfig.json
+C:\Users\R71132\Desktop\Backup4\UI2\bin\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\Backup4\UI2\bin\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\Backup4\UI2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\R71132\Desktop\Backup4\UI2\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\R71132\Desktop\Backup4\UI2\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\UI2.csproj.AssemblyReference.cache
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\Interop.PISDK.dll
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\UI2.csproj.ResolveComReference.cache
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.baml
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\User Controls\Order.baml
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\App.baml
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.g.cs
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\User Controls\Order.g.cs
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\View\BD03.g.cs
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.cache
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.lref
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\View\BD03.baml
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\UI2.g.resources
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\UI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfoInputs.cache
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfo.cs
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\UI2.csproj.CoreCompileInputs.cache
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\UI2.csproj.Up2Date
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\refint\UI2.dll
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\UI2.genruntimeconfig.cache
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\ref\UI2.dll
+C:\Users\R71132\Desktop\Backup4\UI2\bin\Debug\net8.0-windows\OSIsoft.PISDKCommon.dll
+C:\Users\R71132\Desktop\Backup4\UI2\bin\Debug\net8.0-windows\OSIsoft.PITimeServer.dll
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\Interop.PISDKCommon.dll
+C:\Users\R71132\Desktop\Backup4\UI2\obj\Debug\net8.0-windows\Interop.PITimeServer.dll
+C:\Users\R71132\Desktop\Backup4(main)\UI2\bin\Debug\net8.0-windows\UI2.exe
+C:\Users\R71132\Desktop\Backup4(main)\UI2\bin\Debug\net8.0-windows\UI2.deps.json
+C:\Users\R71132\Desktop\Backup4(main)\UI2\bin\Debug\net8.0-windows\UI2.runtimeconfig.json
+C:\Users\R71132\Desktop\Backup4(main)\UI2\bin\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\Backup4(main)\UI2\bin\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\Backup4(main)\UI2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\R71132\Desktop\Backup4(main)\UI2\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\R71132\Desktop\Backup4(main)\UI2\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\R71132\Desktop\Backup4(main)\UI2\bin\Debug\net8.0-windows\OSIsoft.PISDKCommon.dll
+C:\Users\R71132\Desktop\Backup4(main)\UI2\bin\Debug\net8.0-windows\OSIsoft.PITimeServer.dll
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\UI2.csproj.AssemblyReference.cache
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\Interop.PISDK.dll
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\Interop.PISDKCommon.dll
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\Interop.PITimeServer.dll
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\UI2.csproj.ResolveComReference.cache
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.baml
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\User Controls\Order.baml
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\App.baml
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.g.cs
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\User Controls\Order.g.cs
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\View\BD03.g.cs
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.cache
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.lref
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\View\BD03.baml
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\UI2.g.resources
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\UI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfoInputs.cache
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfo.cs
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\UI2.csproj.CoreCompileInputs.cache
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\UI2.csproj.Up2Date
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\refint\UI2.dll
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\UI2.genruntimeconfig.cache
+C:\Users\R71132\Desktop\Backup4(main)\UI2\obj\Debug\net8.0-windows\ref\UI2.dll
+C:\Users\R71132\Desktop\BackUp6\UI2\bin\Debug\net8.0-windows\UI2.exe
+C:\Users\R71132\Desktop\BackUp6\UI2\bin\Debug\net8.0-windows\UI2.deps.json
+C:\Users\R71132\Desktop\BackUp6\UI2\bin\Debug\net8.0-windows\UI2.runtimeconfig.json
+C:\Users\R71132\Desktop\BackUp6\UI2\bin\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\BackUp6\UI2\bin\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\BackUp6\UI2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\R71132\Desktop\BackUp6\UI2\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\R71132\Desktop\BackUp6\UI2\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\R71132\Desktop\BackUp6\UI2\bin\Debug\net8.0-windows\OSIsoft.PISDKCommon.dll
+C:\Users\R71132\Desktop\BackUp6\UI2\bin\Debug\net8.0-windows\OSIsoft.PITimeServer.dll
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\UI2.csproj.AssemblyReference.cache
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\Interop.PISDK.dll
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\Interop.PISDKCommon.dll
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\Interop.PITimeServer.dll
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\UI2.csproj.ResolveComReference.cache
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.baml
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\User Controls\Order.baml
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\App.baml
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.g.cs
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\User Controls\Order.g.cs
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\View\BD03.g.cs
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.cache
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.lref
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\View\BD03.baml
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\UI2.g.resources
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\UI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfoInputs.cache
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfo.cs
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\UI2.csproj.CoreCompileInputs.cache
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\UI2.csproj.Up2Date
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\refint\UI2.dll
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\UI2.genruntimeconfig.cache
+C:\Users\R71132\Desktop\BackUp6\UI2\obj\Debug\net8.0-windows\ref\UI2.dll
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\UI2.csproj.AssemblyReference.cache
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\Interop.PISDK.dll
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\Interop.PISDKCommon.dll
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\Interop.PITimeServer.dll
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\UI2.csproj.ResolveComReference.cache
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.baml
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\User Controls\Order.baml
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\App.baml
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.g.cs
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\User Controls\Order.g.cs
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\View\BD03.g.cs
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.cache
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.lref
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\bin\Debug\net8.0-windows\UI2.exe
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\bin\Debug\net8.0-windows\UI2.deps.json
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\bin\Debug\net8.0-windows\UI2.runtimeconfig.json
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\bin\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\bin\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\bin\Debug\net8.0-windows\OSIsoft.PISDKCommon.dll
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\bin\Debug\net8.0-windows\OSIsoft.PITimeServer.dll
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\View\BD03.baml
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\UI2.g.resources
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\UI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfoInputs.cache
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfo.cs
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\UI2.csproj.CoreCompileInputs.cache
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\UI2.csproj.Up2Date
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\refint\UI2.dll
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\UI2.genruntimeconfig.cache
+C:\Users\R71132\Desktop\BackUp6(Main)\UI2\obj\Debug\net8.0-windows\ref\UI2.dll
+C:\Users\R71132\Desktop\Backup8\UI2\bin\Debug\net8.0-windows\UI2.exe
+C:\Users\R71132\Desktop\Backup8\UI2\bin\Debug\net8.0-windows\UI2.deps.json
+C:\Users\R71132\Desktop\Backup8\UI2\bin\Debug\net8.0-windows\UI2.runtimeconfig.json
+C:\Users\R71132\Desktop\Backup8\UI2\bin\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\Backup8\UI2\bin\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\Backup8\UI2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\R71132\Desktop\Backup8\UI2\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\R71132\Desktop\Backup8\UI2\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\R71132\Desktop\Backup8\UI2\bin\Debug\net8.0-windows\OSIsoft.PISDKCommon.dll
+C:\Users\R71132\Desktop\Backup8\UI2\bin\Debug\net8.0-windows\OSIsoft.PITimeServer.dll
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\UI2.csproj.AssemblyReference.cache
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\Interop.PISDK.dll
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\Interop.PISDKCommon.dll
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\Interop.PITimeServer.dll
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\UI2.csproj.ResolveComReference.cache
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.baml
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\User Controls\Order.baml
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\App.baml
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.g.cs
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\User Controls\Order.g.cs
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\View\BD03.g.cs
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.cache
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.lref
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\View\BD03.baml
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\UI2.g.resources
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\UI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfoInputs.cache
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfo.cs
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\UI2.csproj.CoreCompileInputs.cache
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\UI2.csproj.Up2Date
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\refint\UI2.dll
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\UI2.genruntimeconfig.cache
+C:\Users\R71132\Desktop\Backup8\UI2\obj\Debug\net8.0-windows\ref\UI2.dll
+C:\Users\R71132\Desktop\BackUp9\UI2\bin\Debug\net8.0-windows\UI2.exe
+C:\Users\R71132\Desktop\BackUp9\UI2\bin\Debug\net8.0-windows\UI2.deps.json
+C:\Users\R71132\Desktop\BackUp9\UI2\bin\Debug\net8.0-windows\UI2.runtimeconfig.json
+C:\Users\R71132\Desktop\BackUp9\UI2\bin\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\BackUp9\UI2\bin\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\BackUp9\UI2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\R71132\Desktop\BackUp9\UI2\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\R71132\Desktop\BackUp9\UI2\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\R71132\Desktop\BackUp9\UI2\bin\Debug\net8.0-windows\OSIsoft.PISDKCommon.dll
+C:\Users\R71132\Desktop\BackUp9\UI2\bin\Debug\net8.0-windows\OSIsoft.PITimeServer.dll
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\UI2.csproj.AssemblyReference.cache
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\Interop.PISDK.dll
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\Interop.PISDKCommon.dll
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\Interop.PITimeServer.dll
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\UI2.csproj.ResolveComReference.cache
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.baml
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\User Controls\Order.baml
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\App.baml
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.g.cs
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\User Controls\Order.g.cs
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\View\BD03.g.cs
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.cache
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.lref
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\View\BD03.baml
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\UI2.g.resources
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\UI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfoInputs.cache
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfo.cs
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\UI2.csproj.CoreCompileInputs.cache
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\UI2.csproj.Up2Date
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\refint\UI2.dll
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\UI2.genruntimeconfig.cache
+C:\Users\R71132\Desktop\BackUp9\UI2\obj\Debug\net8.0-windows\ref\UI2.dll
+C:\Users\R71132\Desktop\New folder\UI2\bin\Debug\net8.0-windows\UI2.exe
+C:\Users\R71132\Desktop\New folder\UI2\bin\Debug\net8.0-windows\UI2.deps.json
+C:\Users\R71132\Desktop\New folder\UI2\bin\Debug\net8.0-windows\UI2.runtimeconfig.json
+C:\Users\R71132\Desktop\New folder\UI2\bin\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\New folder\UI2\bin\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\New folder\UI2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\R71132\Desktop\New folder\UI2\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\R71132\Desktop\New folder\UI2\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\R71132\Desktop\New folder\UI2\bin\Debug\net8.0-windows\OSIsoft.PISDKCommon.dll
+C:\Users\R71132\Desktop\New folder\UI2\bin\Debug\net8.0-windows\OSIsoft.PITimeServer.dll
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\UI2.csproj.AssemblyReference.cache
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\Interop.PISDK.dll
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\Interop.PISDKCommon.dll
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\Interop.PITimeServer.dll
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\UI2.csproj.ResolveComReference.cache
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.baml
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\User Controls\Order.baml
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\App.baml
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\User Controls\InfoCard.g.cs
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\User Controls\Order.g.cs
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\View\BD03.g.cs
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.cache
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\UI2_MarkupCompile.lref
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\View\BD03.baml
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\UI2.g.resources
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\UI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfoInputs.cache
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\UI2.AssemblyInfo.cs
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\UI2.csproj.CoreCompileInputs.cache
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\UI2.csproj.Up2Date
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\UI2.dll
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\refint\UI2.dll
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\UI2.pdb
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\UI2.genruntimeconfig.cache
+C:\Users\R71132\Desktop\New folder\UI2\obj\Debug\net8.0-windows\ref\UI2.dll
